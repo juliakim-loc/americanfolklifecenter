@@ -25,11 +25,12 @@ Reportmd.sh - In order to encompass as many use cases as possible, 1 script was 
 Processfiles.sh - This script is only applicable when the digital assets specialist decides the collection, accrual, or accession is a good case for a higher commitment to process the collection more fully by also manipulating and changing files. The changes can include file renaming, deleting of hidden files, grouping directories, and flattening of directory structures. These minimal processing steps bring collections closer to 1) ideally flatter repository ingest packages, avoiding ingest packages that are many directory levels deep  2) smaller, machine readable and normalized “intellectual objects” as ingest packages, which is how we at AFC must organize collections for the Library’s online digital collections display. 
 
 III. How Was It Created?
-“The Signal” blog post page cited explains that the script builds on pre-existing workflows and borrows liberally from the scripts maintained and developed at CUNY Television by David Rice, but optimizes with AFC’s collections and practices in mind.
+“The Signal” blog post page cited explains that the script builds on pre-existing workflows and borrows liberally from the scripts maintained and developed at CUNY Television by David Rice, but it is optimized with AFC’s collections, systems, and practices in mind.
 
 IV. Code descriptions
 
 V. Rights Statement
+All contributions to AFC processing scripts are free to use and re-use in any way!
 
 VI. Creator and contributor information
 Creator: Annie Schweikert
